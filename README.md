@@ -13,6 +13,17 @@ This project aligns with CRUD functionalities, also shows how to model any possi
 * Building CRUD on Lists of To-Do items.
 * One-to-one, one-to-many, and many-to-many relationships.
 
+# Tech stack used in this project:
+
+* Python (Flask)
+* Flask-SQLAlchemy
+* Flask-Migrate
+* psycopg2
+* Postgres 
+* SQLAlchemy
+* Venv
+* Alembic
+
 ## Development Setup
 1. **Download the project starter code locally**
 ```
